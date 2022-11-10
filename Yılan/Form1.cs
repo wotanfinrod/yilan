@@ -52,9 +52,10 @@ namespace Yılan
                 timersağ.Enabled = false;
                 timeraşağı.Enabled = true;
                 timeryukarı.Enabled = false;
+                //asdkasdjaskdsakdjkalaksldşqwjeqwkl
+                //sadadklasdşaslkjJSKADJA
             }
 
-          
 
            
             
